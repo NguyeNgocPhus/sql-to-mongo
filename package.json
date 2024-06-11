@@ -6,10 +6,9 @@
   "dependencies": {
     "linq": "^3.0.9",
     "moment": "^2.20.1",
-    "mongodb": "^3.0.2",
+    "mongodb": "^3.7.4",
     "mssql": "^4.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
